@@ -44,7 +44,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ youtube:
+│ pengen jadibot klik dibawah ini:
 │ %github
 ╰────
 %readmore`.trimStart(),
