@@ -10827,8 +10827,8 @@
     },
     "6288245009287@s.whatsapp.net": {
       "healt": 100,
-      "level": 0,
-      "exp": 214,
+      "level": 1,
+      "exp": 301,
       "coin": 0,
       "limit": 10,
       "tigame": 10,
@@ -10910,8 +10910,9 @@
       "name": "arie",
       "age": 30,
       "regTime": 1636211405763,
-      "role": "Newbie ㋡",
-      "autolevelup": true
+      "role": "Beginner",
+      "autolevelup": true,
+      "banned": false
     },
     "6285654180548@s.whatsapp.net": {
       "healt": 100,
@@ -11175,7 +11176,8 @@
       "age": -1,
       "regTime": -1,
       "role": "Newbie ㋡",
-      "autolevelup": true
+      "autolevelup": true,
+      "banned": false
     },
     "13133067992@s.whatsapp.net": {
       "healt": 100,
@@ -13519,7 +13521,8 @@
       "sDemote": "",
       "delete": false,
       "antiLink": false,
-      "antiToxic": false
+      "antiToxic": false,
+      "viewonce": false
     },
     "6288245009287-1635516290@g.us": {
       "isBanned": false,
@@ -13608,10 +13611,10 @@
       "lastSuccess": 1632957943887
     },
     "menu.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1636214031118,
-      "lastSuccess": 1636214031118
+      "total": 24,
+      "success": 24,
+      "last": 1645367175375,
+      "lastSuccess": 1645367175375
     },
     "pussy.js": {
       "total": 3,
@@ -13674,9 +13677,9 @@
       "lastSuccess": 1633573807248
     },
     "enable.js": {
-      "total": 19,
+      "total": 22,
       "success": 16,
-      "last": 1636213972085,
+      "last": 1645367263125,
       "lastSuccess": 1636212739010
     },
     "ttp.js": {
@@ -13974,10 +13977,10 @@
       "lastSuccess": 1633744188851
     },
     "jadibot.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1636214039916,
-      "lastSuccess": 1636214039916
+      "total": 6,
+      "success": 6,
+      "last": 1645367279202,
+      "lastSuccess": 1645367279202
     },
     "dewasamenu.js": {
       "total": 2,
